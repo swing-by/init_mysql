@@ -4,7 +4,9 @@
 
 ## 使い方
 ```
-sh init_mysql.sh 8.0.26
+sh init_mysql.sh <version>
+
+example > sh init_mysql.sh 8.0.26
 ```
 
 ## 詳細
